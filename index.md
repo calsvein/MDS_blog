@@ -21,6 +21,8 @@ Because we have to two variables (disease status and test result), and because e
 
 We can think of these four possible outcomes by designing what is called a 2x2 Confusion Matrix:
 
+![](image_1.png?raw=true)
+
 Note the green and red coloring. While a patient would prefer not to be in the True Positive camp, we give this and the True Negative outcome the green (desirable) color because the testing diagnosis was correct. False Negatives and False Positives are labelled red because they are incorrect diagnoses.
 
 Let’s illustrate the Confusion Matrix with perhaps a silly example of pregnancy testing. See if the labels for each picture make sense to you.
