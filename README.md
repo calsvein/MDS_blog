@@ -28,11 +28,12 @@ Note the green and red coloring. While a patient would prefer not to be in the T
 Let’s illustrate the Confusion Matrix with perhaps a silly example of pregnancy testing. See if the labels for each picture make sense to you.
 
 ![](https://github.com/calsvein/MDS_blog/blob/gh-pages/image_2.PNG)
+
 *Image attributed to @Mo Garoub, 2020-2021 MDS.*
 
 Let’s populate our Confusion Matrix with some numbers. Let’s say that 100 people were tested for the same disease that our original patient was tested for, with the following results:
 
-[](https://github.com/calsvein/MDS_blog/blob/gh-pages/image_3.PNG)
+![](https://github.com/calsvein/MDS_blog/blob/gh-pages/image_3.PNG)
 
 Of these 100 predictions, 86 are correct (green) , and 14 are erroneous (red). Of these prediction errors, 9 are False Negatives, and 5 are False Positives. Overall, this testing sample had 86% accuracy rate.
 
